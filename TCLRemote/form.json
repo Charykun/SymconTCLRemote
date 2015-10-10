@@ -1,0 +1,17 @@
+{
+    "elements":
+    [
+        { "name": "IPAddress", "type": "ValidationTextBox", "caption": "IP-Address" },
+        { "name": "Port", "type": "NumberSpinner", "caption": "Port" }
+    ],
+    "actions":
+    [
+        { "type": "Button", "label": "Power Off", "onClick": "TCL_PowerOff($id)" },
+        { "type": "Button", "label": "Volume UP", "onClick": "TCL_VolumeUP($id)" },
+        { "type": "Button", "label": "Volume Down", "onClick": "TCL_VolumeDown($id)" },
+        { "type": "Button", "label": "Volume Mute", "onClick": "TCL_Mute($id)" },
+        { "type": "Button", "label": "TV", "onClick": "TCL_TV($id)" },
+        { "type": "Button", "label": "Channel UP", "onClick": "TCL_ChannelUp($id)" },
+        { "type": "Button", "label": "Channel Down", "onClick": "TCL_ChannelDown($id)" }        
+    ]   
+}
