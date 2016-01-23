@@ -2,6 +2,9 @@
 Remote Steuerung für TCL TV Geräte.
 (Getestet mit TCL U40S7606DS Fernseher)
 
+[![Latest Stable Version](https://poser.pugx.org/charykun/symcontclremote/version)](https://packagist.org/packages/charykun/symcontclremote) [![Total Downloads](https://poser.pugx.org/charykun/symcontclremote/downloads)](https://packagist.org/packages/charykun/symcontclremote) [![License](https://poser.pugx.org/charykun/symcontclremote/license)](https://packagist.org/packages/charykun/symcontclremote)
+
+
 ## Dokumentation
 
 **Inhaltsverzeichnis**
