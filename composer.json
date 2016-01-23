@@ -1,5 +1,8 @@
 {
     "name": "charykun/symcontclremote",
     "description": "Remote for TCL TV.",
-    "license": "GNU"
+    "license": "GNU",
+    "require": {
+        "php": ">=5.5"
+    }
 }
